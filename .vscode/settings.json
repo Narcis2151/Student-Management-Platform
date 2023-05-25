@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+      "include": [
+        "lib/**/*.jar",
+        "c:\\Users\\Narcis\\Downloads\\mysql-connector-java-5.1.46\\mysql-connector-java-5.1.46\\mysql-connector-java-5.1.46.jar"
+      ],
+      "exclude": [
+        "lib/mysql-connector-java-5.1.46.jar"
+      ]
+    },
+    "java.configuration.runtimes": [
+      {
+        "name": "JavaSE-1.8",
+        "path": "C:\\Program Files\\Java\\jdk1.8.0_361",
+        "default": true
+      }
+    ]
+  }
+  
